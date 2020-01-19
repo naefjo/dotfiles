@@ -1,1 +1,0 @@
-/Users/joshua/.config/fish/
