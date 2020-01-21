@@ -1,5 +1,4 @@
-filepath=/a/b/c/d/file
-
+#Get aliases from fish shell and make them available for zsh
 source $(dirname $(dirname "$0"))/fish/conf.d/aliases.fish
 
 # If you come from bash you might have to change your $PATH.

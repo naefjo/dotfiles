@@ -91,6 +91,7 @@ set gdefault
 set ignorecase
 set smartcase
 
-"commands
+"Keybindings
+
 nnoremap ä :tabn<CR>
 nnoremap ö :tabp<CR>
