@@ -1,4 +1,6 @@
-source ../fish/conf.d/aliases.fish
+filepath=/a/b/c/d/file
+
+source $(dirname $(dirname "$0"))/fish/conf.d/aliases.fish
 
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
