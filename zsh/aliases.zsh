@@ -1,3 +1,5 @@
+alias ls="ls -Fh"
+alias l="ls -laFh"
 alias push="git push"
 alias pull="git pull"
 alias commit="git commit -m"
