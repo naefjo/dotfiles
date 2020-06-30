@@ -95,3 +95,8 @@ set smartcase
 
 nnoremap ä :tabn<CR>
 nnoremap ö :tabp<CR>
+
+"Change cursor to block in default mode and bar in insert mode
+let &t_SI = "\e[6 q"
+let &t_EI = "\e[2 q"
+
